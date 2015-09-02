@@ -1,0 +1,48 @@
+{
+  "surveys": [
+    {
+      "title": "World of Warcraft",
+      "input": [
+        {
+          "label": "User Name",
+          "value": "Gregs Player"
+        }
+      ]
+    },
+    {
+      "title": "Battlefield: Hardline",
+      "input": [
+        {
+          "label": "User Name",
+          "value": null
+        }
+      ]
+    },
+    {
+      "title": "Brain Type",
+      "input": [
+        {
+          "label": "I can easily tell if someone else wants to enter a conversation.",
+          "value": "Moderately Accurate"
+        },
+        {
+          "label": "I rarely read articles or web pages about new technology.",
+          "value": "Very Accurate"
+        }
+      ]
+    },
+    {
+      "title": "Personality",
+      "input": [
+        {
+          "label": "I am the life of the party.",
+          "value": "Moderately Accurate"
+        },
+        {
+          "label": "I feel little concern for others.",
+          "value": "Very Accurate"
+        }
+      ]
+    }
+  ]
+}
